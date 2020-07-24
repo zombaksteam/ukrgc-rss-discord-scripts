@@ -65,5 +65,5 @@ if [[ $CONST_DISCORD_HOOK_URL != "" ]]; then
 		fi
 	done
 else
-	/bin/echo "Error, Steam RSS feed url is not set!"
+	/bin/echo "Error, RSS feed url is not set!"
 fi

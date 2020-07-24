@@ -1,5 +1,3 @@
-# ukrgc-rss-discord-scripts
-
 # INFO:
 ```
 (c) Zombak, 2020
